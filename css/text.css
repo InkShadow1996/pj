@@ -1,0 +1,202 @@
+@charset "utf-8";
+/* CSS Document */
+.ton1{                /*网页标头按钮组件样式*/
+	font-size:24px;
+	font-style:italic;
+	font-weight:bold;
+	font-family:fantasy;
+	background-color:#00F;
+	letter-spacing:5px;
+	text-align:center;
+	vertical-align:middle;
+	color:#FFF;
+	}
+	
+#back{              /*首页背景样式*/
+	width:1350px;
+	height:1000px;
+	background-image:url(../pictures/background.jpg);
+}
+
+#only{              /*首页din嵌套模块的样式*/
+	width:1350px;
+	height:280px;
+}
+
+.div1{               /*登录模块样式规则*/
+    position:absolute;
+	margin-left:0px;
+	margin-top:70px;
+	width:240px;
+	height:280px;
+	border-color:#0F6;
+	display:inline;
+}
+
+.denglu{                /*登录table*/
+   height:270px;
+   width:200px;     
+   background-image:url(../pictures/dlbeijing.jpg);
+}
+
+.div2{                  /*广告样式*/
+	position:absolute;
+	margin-left:0px;
+	margin-top:120px;
+	border:5px ridge #CF9;
+	width:200px;
+	height:300px;	
+	display:inline;
+	background-color:#FFF;
+}
+
+.div3{                /*视频模块*/
+	position:absolute;
+	border:5px double #FFFF99;
+	margin-left:280px;
+	margin-top:70px;
+	margin-right:800px;
+	width:500px;
+	height:280px;
+	display:inline;
+}
+
+.div4{                /*物业通知*/
+	position:absolute;
+	margin-left:850px;
+	margin-top:70px;
+	border:5px inset #9CF;
+	width:400px;
+	height:280px;
+	display:inline;
+	background-color:#FFF;
+}
+
+.div4t{
+	width:400px;
+	height:280px;
+	background-image:url(../pictures/wygg.jpg);
+	background-size:400px 265px;
+}
+
+.div5{               /*房屋租售*/
+	position:absolute;
+	margin-left:280px;
+	margin-top:120px;
+	width:500px;
+	height:300px;
+	border:5px groove #9CC;
+	display:inline;
+	background-color:#FFF;
+}
+
+.div5t{
+	width:500px;
+	height:300px;
+	background-image:url(../pictures/roomsale.jpg);
+	background-size:500px 300px;
+}
+
+.div6{            /*二手信息*/
+	position:absolute;
+	margin-left:825px;
+	margin-top:120px;
+	width:500px;
+	height:300px;
+	border:5px groove #9FC;
+	display:inline;
+}
+
+.div6t{
+	width:500px;
+	height:300px;
+	background-image:url(../pictures/secondhand.jpg);
+	background-size:500px 300px;
+}
+
+#zcborder{       /*注册页面CSS盒*/
+	margin-left:400px;
+	margin-right:400px;
+	margin-top:100px;	
+}
+
+.zhuce{         /*注册table*/
+	width:500px;
+	height:800px;
+	background-image:url(../pictures/zcback.jpg);
+}
+
+.zct1{           /*注册表格内部样式*/
+	width:200px;
+	height:150px;
+}
+
+.zct2{
+	width:300px;
+	height:150px;
+}
+
+/*roomsale*/
+.room1{
+	position:absolute;
+	margin-top:70px;
+	margin-left:275px;
+	height:280px;
+	width:1000px;
+	border:5px double #663366;
+	display:inline;
+}
+
+.rfon1{
+	font-size:25px;
+}
+
+.send{
+	
+	margin-top:300px;
+	margin-left:100px;
+	margin-right:100px;
+	border:5px double #CC3333;
+}
+
+.title{
+background-color: #B10707;
+color: white;
+}
+.list{
+margin-left: 12px;
+}
+ 
+/*用户中心*/
+#usercenter{
+	height:400px;
+	margin-top:100px;
+	margin-left:200px;
+	margin-right:200px;
+	border:5px inset #03C;
+}
+/*社区之家*/
+#shequ{
+	position:absolute;
+	width:1300px;
+	height:500px;
+	border:5px inset #09F;  
+}
+
+#jiaofei{
+	position:absolute;
+	width:500px;
+	height:200px;
+	margin-top:150px;
+	margin-left:100px;
+	display:inline;
+}
+
+#hotel{
+	position:absolute;
+	width:500px;
+	height:200px;
+	margin-top:150px;
+	margin-left:700px;
+	display:inline;
+}

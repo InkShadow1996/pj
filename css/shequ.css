@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+/*shequ*/
+
+/*givemoney*/
+
+#givemoney{
+	width:1330px;
+	height:570px;
+	border:5px inset #6FC;
+}
+
+.p1{
+	position:absolute;
+	font-size:24px;
+	padding-top:50px;
+	padding-left:200px;
+	display:inline;
+}
+
+.p2{
+	position:absolute;
+	font-size:24px;
+	padding-top:50px;
+	padding-left:800px;
+}
+
+.getm{
+	width:1100px;
+	margin-left:115px;
+	margin-top:200px;
+}
+
+.p3{
+	position:absolute;
+	font-size:24px;
+	padding-top:100px;
+	padding-left:200px;
+	display:inline;
+}
+
+.p4{
+	position:absolute;
+	font-size:16px;
+	padding-left:800px;
+	padding-top:100px;
+	display:inline;
+}
