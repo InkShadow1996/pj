@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+.clearfix{
+	margin-top:0px;
+	width:1350px;
+	height:200px;
+	background-image:url(../pictures/top.jpg);
+	background-size:1350px 200px;;
+	}
+	
+h1{
+	font-style:oblique;
+	font-size:50px;
+	font-weight:bold;
+	letter-spacing:5px;
+	padding-left:30px;
+}
+
+.lianjie{
+	margin-left:1200px;
+	margin-top:50px;
+}
+
+.menu{
+	position:absolute;
+	margin-top:20px;
+	width:200px;
+	height:1000px;
+	background-image:url(../pictures/menu.jpg);
+	background-size:200px 1000px;
+	display:inline;
+}
+
+li{
+	list-style-type:none;
+}
+
+.frame{
+	margin-top:20px;
+	height:1000px;
+	width:1300px;
+}
+
+.rl{
+	position:absolute;
+	margin-left:250px;
+	margin-top:20px;
+	border:5px ridge #03C;
+	width:1000px;
+	height:1000px;
+}
+
+.s2{
+	border:0px;
+	background-color:transparent;
+}
+
+.userselect{
+      width:900px;
+      margin-top:100px;
+	  margin-left:20px;
+	  border:1px double #0000CC;
+}
+.title{
+       background-color: #B10707;
+       font-size: 17px;
+       color: white;
+}
+.right{
+       margin-left: 120px;
+}
+
+.insert{
+	background-color:#C09;
+	width:400px;
+	margin-left:300px;
+	margin-top:100px;
+}
